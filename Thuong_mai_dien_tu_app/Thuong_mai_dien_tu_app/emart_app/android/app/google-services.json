@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635528700092",
+    "project_id": "hanhstore-13dc3",
+    "storage_bucket": "hanhstore-13dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635528700092:android:9d42c1368d6d6e4cca30b9",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ljg1MjB1AgKy9wZVkq_-xy-LWitnTNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
